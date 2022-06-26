@@ -1,0 +1,12 @@
+{
+  "name": "throw-timeout",
+  "version": "1.0.0",
+  "description": "A necessary callback timeout",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
